@@ -1,5 +1,5 @@
 # Differential Gene Expression Analysis
-This repository contains one script that performs differential gene expressional analysis.
+This repository contains one R script (deseq2.R) that performs differential gene expressional analysis.
 
 # Study Design
 RNA-sequencing performed on 4 primary human airway smooth muscle cell lines treated with 1 micromolar dexamethasone for 18 hours.
