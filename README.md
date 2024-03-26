@@ -1,5 +1,5 @@
 # Differential Gene Expression Analysis
-This repository contains one R script (deseq2.R) that performs differential gene expressional analysis.
+This repository contains one R script (deseq2.R) that performs differential gene expressional analysis and another R script (ensembl_ids.R) which shows different methods to convert Ensembl IDs to gene IDs.
 
 # Study Design
 RNA-sequencing performed on 4 primary human airway smooth muscle cell lines treated with 1 micromolar dexamethasone for 18 hours.
@@ -18,6 +18,11 @@ airway
 ggbeeswarm
 genefilter
 pheatmap
+biomaRt
+devtools
+annotables
+org.Hs.eg.db
+EnsDb.Hsapiens.v86
 
 ## Data used
 airway package data
